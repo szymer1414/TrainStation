@@ -2,7 +2,7 @@
 This app is a train schedule management and ticketing system that integrates with Neo4j and MongoDB databases. It provides a graphical user interface (GUI) built using Kivy to manage trains, search for connections, purchase tickets, and view them.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <</p>
-<a href="https://neo4j.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fneo4j.com%2F&psig=AOvVaw100-QZocVL4yyg-NMaVe1T&ust=1728681610457000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi6yvzehIkDFQAAAAAdAAAAABAJ" alt="neo4j" width="40" height="40"/> <</p>
+<a href="https://neo4j.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/201120?s=200&v=4" alt="neo4j" width="40" height="40"/> <</p>
 
 
 Manage train schedules:
